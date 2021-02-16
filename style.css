@@ -1,0 +1,49 @@
+body{
+    background-image:url(images/code.jpg);
+    background-size:100%;
+}
+
+h1{
+    font-family: "Oswald",sans-serif;
+    
+}
+
+p{
+    font-family: 'Montserrat', sans-serif;
+
+}
+
+.heading{
+    padding-top: 10%;
+    padding-left: 10%;
+    font-size: 2rem;
+    color: #fff;
+}
+
+.button{
+    background-color: #800020;
+    border: none;
+    border-radius: 12px;
+    color: #fff;
+    text-align: center;
+    text-decoration: none;
+    font-size: 17px;
+    padding: 15px 32px;
+    font-family:'Montserrat', sans-serif; ;
+    
+}
+
+.button:hover{
+    border: 2px solid #800020 ;
+    background-color: rgba(255, 255, 255, 0.096);
+}
+
+.icon{
+    padding-left: 10%;
+    padding-top: 2%;
+}
+
+.iconspacing {
+    margin-right: 2%;
+    color: #fff;
+}
